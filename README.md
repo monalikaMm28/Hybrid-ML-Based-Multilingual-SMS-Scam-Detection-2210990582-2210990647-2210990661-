@@ -112,6 +112,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+---
+
 🙏 Acknowledgement
 
 We thank the faculty of Chitkara University for their guidance and support throughout this project.

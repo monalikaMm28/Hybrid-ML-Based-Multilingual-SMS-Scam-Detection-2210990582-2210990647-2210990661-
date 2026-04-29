@@ -3,7 +3,6 @@
 ## 📌 Project Details
 
 - **Project Type:** Research-Based Machine Learning Project  
-- **Domain:** Cybersecurity / NLP  
 - **Team Members:**  
   - Monalika (2210990582)  
   - Payal Dhiman (2210990647)  
